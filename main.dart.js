@@ -56514,9 +56514,9 @@ A.Am.prototype={
 Z(a){var s=null
 return new A.r_(B.D9,"Portfolio",A.a4M(s,A.a6F(B.X,s,s,B.Bu),s),!1,new A.X5(),s)}}
 A.rI.prototype={
-ap(){return new A.Gt(A.ahp(),B.i,A.b([new A.hM("YI SEUNGHOO","portfolio",B.k,B.j,"","","","L"),new A.hM("Graphic Design","University",B.j,B.k,"","","","L"),new A.hM("","",A.yg(221,221,221,0.5),B.k,"assets/images/money.png","01","MONEY","R"),new A.hM("","",A.yg(221,221,221,0.5),B.k,"assets/images/apple.png","02","APPLE","L"),new A.hM("","",A.yg(221,221,221,0.5),B.k,"assets/images/pen.png","03","PEN","R"),new A.hM("","",B.j,B.k,"","","","L")],t.qP))}}
+ap(){return new A.Gt(A.ahp(),B.i,A.b([new A.hM("YI SEUNGHOO","portfolio",B.k,B.j,"","","","L"),new A.hM("Graphic Design","MYONGJI COLLEGE",B.j,B.k,"","","","L"),new A.hM("","",A.yg(221,221,221,0.5),B.k,"assets/images/money.png","01","MONEY","R"),new A.hM("","",A.yg(221,221,221,0.5),B.k,"assets/images/apple.png","02","APPLE","L"),new A.hM("","",A.yg(221,221,221,0.5),B.k,"assets/images/pen.png","03","PEN","R"),new A.hM("","",B.j,B.k,"","","","L")],t.qP))}}
 A.Gt.prototype={
-Z(a){var s=this,r=null,q=A.dB(a,r,t.w).w.a,p=s.d,o=A.ahL(0,new A.xt(p,s.r,s.f,q,A.b(["","","          I AM CURRENTLY ACTIVE AS\n          A FRONTEND ENGINEER.\n          I SPECIALIZE IN ANIMATIONS\n          AND INTERACTIVE EXPRESSIONS.\n          AND ABOVE ALL, I LOVE THIS JOB.\n    ","          GRAPHIC \n          GRAPHICDESIGNBASICS\n          GRAPHICDESIGNCAREER \n          DESIGN\n          GRAPHICDESIGN \n          MONOCHROME\n          BLACKWHITE \n          MONOCHROMEDESIGN\n          ART \n          HELVETICA \n          APPLE\n    ","          graphic GraphicDesignBasics\n          GraphicDesignCareer design\n          graphicdesign graphicdesigner\n          monochrome BlackWhite\n          monochromedesign\n          art ink pen fountainPen\n    ",""],t.s),r)),n=s.e,m=new A.dr(B.k,1.5,B.R,-1)
+Z(a){var s=this,r=null,q=A.dB(a,r,t.w).w.a,p=s.d,o=A.ahL(0,new A.xt(p,s.r,s.f,q,A.b(["","","          I'M GOING TO BE THE COOLEST DESIGNER IN THE WORLD!\n          I'M ESPECIALLY SKILLED IN PACKAGING AND GRAPHIC DESIGN.\n          LATELY, I'VE BEEN GETTING REALLY INTERESTED IN CREATING 3D VIDEOS.\n          AND I LOVE JJIBONG WITH ALL MY HEART \u2661\n    ","          #GRAPHIC \n          #GRAPHICDESIGNBASICS\n          #GRAPHICDESIGNCAREER \n          #DESIGN\n          #GRAPHICDESIGN \n          #MONOCHROME\n          #BLACKWHITE \n          #MONOCHROMEDESIGN\n          #ART \n          #HELVETICA \n          #APPLE\n    ","          graphic GraphicDesignBasics\n          GraphicDesignCareer design\n          graphicdesign graphicdesigner\n          monochrome BlackWhite\n          monochromedesign\n          art ink pen fountainPen\n    ",""],t.s),r)),n=s.e,m=new A.dr(B.k,1.5,B.R,-1)
 return new A.t9(A.SA(A.Cv(B.cM,A.b([o,new A.rz(B.cS,p,new A.a0f(s),new A.WZ(new A.a0g(s,q),6,r),r),A.AQ(r,A.zC(A.a3t(r,r,new A.hg(A.cm(204,B.j.a0()>>>16&255,B.j.a0()>>>8&255,B.j.a0()&255),r,new A.cr(m,m,m,m),r,r,r,B.eq),20,r,r,20),!0,r),r,r,n.a-10,r,n.b-10,r)],t.F),B.e5),B.FC,r,r,new A.a0h(s)),r)}}
 A.a0h.prototype={
 $1(a){var s=this.a
@@ -56572,7 +56572,7 @@ o=p>=2&&p<=4
 n=A.b([],t.F)
 if(o)n.push(A.cM("ABOUT",A.bW(m,m,B.k,m,m,m,m,m,l,m,m,k.f.a*0.01,m,m,B.bx,m,m,!0,m,1.3,m,m,m,m,m,m),m))
 n.push(A.ey(m,10,m))
-n.push(A.cM(k.r[p],A.bW(m,m,B.k,m,m,m,m,m,l,m,m,k.f.a*0.015,m,m,B.P,m,m,!0,m,1.3,m,m,m,m,m,m),m))
+n.push(A.cM(k.r[p],A.bW(m,m,B.k,m,m,m,m,m,l,m,m,k.f.a*0.018,m,m,B.P,m,m,!0,m,1.3,m,m,m,m,m,m),m))
 return A.a3t(A.a6z(A.pp(n,B.bu,B.bC),m,m),j,m,m,m,m,m)},
 $S:345}
 A.hM.prototype={}
