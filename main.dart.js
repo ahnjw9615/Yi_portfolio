@@ -57517,15 +57517,12 @@ return new A.rh(B.DD,"Portfolio",A.a5D(s,A.a7A(B.Y,s,s,B.BX),s),!1,new A.XK(),s)
 A.rZ.prototype={
 aq(){return new A.GZ(A.aiv(),B.i,A.c([new A.hT("YI SEUNGHOO","portfolio",B.k,B.j,"","","","L"),new A.hT("Graphic Design","COLLEGE",B.j,B.k,"","","","L"),new A.hT("","",A.yB(221,221,221,0.5),B.k,"assets/images/money.png","01","MONEY","R"),new A.hT("","",A.yB(221,221,221,0.5),B.k,"assets/images/apple.png","02","APPLE","L"),new A.hT("","",A.yB(221,221,221,0.5),B.k,"assets/images/pen.png","03","PEN","R"),new A.hT("","",B.j,B.k,"","","","L")],t.qP))}}
 A.GZ.prototype={
-Z(a){var s,r,q,p,o,n=this,m=null,l=A.dG(a,m,t.w).w.a,k=l.a,j=l.b
-if(k<j)k=j
-s=A.dv()===B.aq||A.dv()===B.ap?B.ec:B.G8
-r=n.d
-r=A.c([A.aiS(0,new A.xP(r,n.r,n.f,l,A.c(["","","          I'M GOING TO BE THE COOLEST \n          DESIGNER IN THE WORLD!\n          I'M ESPECIALLY SKILLED IN \n          PACKAGING AND GRAPHIC DESIGN.\n          LATELY, I'VE BEEN GETTING \n          INTERESTED IN CREATING 3D VIDEOS.\n          AND I LOVE JJIBONG WITH ALL MY HEART \u2661\n    ","          #GRAPHIC \n          #GRAPHICDESIGNBASICS\n          #GRAPHICDESIGNCAREER \n          #DESIGN\n          #GRAPHICDESIGN \n          #MONOCHROME\n          #BLACKWHITE \n          #MONOCHROMEDESIGN\n          #ART \n          #HELVETICA \n          #APPLE\n    ","          graphic GraphicDesignBasics\n          GraphicDesignCareer design\n          graphicdesign graphicdesigner\n          monochrome BlackWhite\n          monochromedesign\n          art ink pen fountainPen\n    ",""],t.s),m)),new A.rQ(B.cW,r,new A.a12(n),new A.XD(new A.a13(n,l,k),6,m),m)],t.F)
-if(!(A.dv()===B.aq||A.dv()===B.ap)){q=n.e
-p=k*0.015
-o=new A.cR(B.k,1.5,B.M,-1)
-r.push(A.Bg(m,A.zX(A.a4g(m,m,new A.ho(A.c7(204,B.j.Y()>>>16&255,B.j.Y()>>>8&255,B.j.Y()&255),m,new A.ct(o,o,o,o),m,m,m,B.ev),p,m,m,p),!0,m),m,m,q.a-10,m,q.b-10,m))}return new A.tq(A.AI(A.CX(B.cQ,r,B.eb),s,m,m,new A.a14(n)),m)}}
+Z(a){var s,r,q,p=this,o=null,n=A.dG(a,o,t.w).w.a,m=n.a,l=A.dv()===B.aq||A.dv()===B.ap?B.ec:B.G8,k=p.d
+k=A.c([A.aiS(0,new A.xP(k,p.r,p.f,n,A.c(["","","          I'M GOING TO BE THE COOLEST \n          DESIGNER IN THE WORLD!\n          I'M ESPECIALLY SKILLED IN \n          PACKAGING AND GRAPHIC DESIGN.\n          LATELY, I'VE BEEN GETTING \n          INTERESTED IN CREATING 3D VIDEOS.\n          AND I LOVE JJIBONG WITH ALL MY HEART \u2661\n    ","          #GRAPHIC \n          #GRAPHICDESIGNBASICS\n          #GRAPHICDESIGNCAREER \n          #DESIGN\n          #GRAPHICDESIGN \n          #MONOCHROME\n          #BLACKWHITE \n          #MONOCHROMEDESIGN\n          #ART \n          #HELVETICA \n          #APPLE\n    ","          graphic GraphicDesignBasics\n          GraphicDesignCareer design\n          graphicdesign graphicdesigner\n          monochrome BlackWhite\n          monochromedesign\n          art ink pen fountainPen\n    ",""],t.s),o)),new A.rQ(B.cW,k,new A.a12(p),new A.XD(new A.a13(p,n,m),6,o),o)],t.F)
+if(!(A.dv()===B.aq||A.dv()===B.ap)){s=p.e
+r=m*0.015
+q=new A.cR(B.k,1.5,B.M,-1)
+k.push(A.Bg(o,A.zX(A.a4g(o,o,new A.ho(A.c7(204,B.j.Y()>>>16&255,B.j.Y()>>>8&255,B.j.Y()&255),o,new A.ct(q,q,q,q),o,o,o,B.ev),r,o,o,r),!0,o),o,o,s.a-10,o,s.b-10,o))}return new A.tq(A.AI(A.CX(B.cQ,k,B.eb),l,o,o,new A.a14(p)),o)}}
 A.a14.prototype={
 $1(a){var s=this.a
 s.aI(new A.a0Z(s,a))},
